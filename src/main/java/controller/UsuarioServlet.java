@@ -27,6 +27,7 @@ public class UsuarioServlet extends HttpServlet {
     // establecer id
     String id;
 
+    // constructor
     public UsuarioServlet() throws SQLException, ClassNotFoundException {
     }
 
